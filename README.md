@@ -6,3 +6,5 @@ This project creates 6 types of signals: Sin / |Sin| / Square / Triangle / Sawto
 First, the menu will be shown to the user then the user inputs a number between 1 to 6.
 
 After that, the user determines the frequency and time to show the signal; finally, the selected signal will be delivered to the oscilloscope.
+
+
