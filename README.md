@@ -7,6 +7,6 @@ First, the menu will be shown to the user then the user inputs a number between 
 
 After that, the user determines the frequency and time to show the signal; finally, the selected signal will be delivered to the oscilloscope.
 
-In proteus folder
+In the proteus folder, the shape of the circuits was made by the Proteus application.
 
 
